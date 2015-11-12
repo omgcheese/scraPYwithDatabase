@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mongo_",
+				"mongo_collection"
+			],
+			[
+				"mongo",
+				"mongo_uri"
+			],
+			[
+				"mon",
+				"mongoUri"
+			],
+			[
+				"reddit",
+				"redditItems"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"redd",
+				"redditPosts"
+			],
+			[
+				"items",
+				"items"
+			],
+			[
+				"sou",
+				"sourceCode"
+			],
+			[
+				"get",
+				"getURL"
+			],
+			[
+				"C",
+				"CrawlerCore"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"window",
+				"windowSize"
+			],
+			[
+				"wind",
+				"windowSize"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"h",
+				"min-height"
+			],
+			[
+				"info",
+				"infoWindow"
+			],
+			[
+				"create",
+				"createMapMarker"
+			],
+			[
+				"pr",
+				"project-entry"
+			],
+			[
+				"for",
+				"formatedEdution"
+			],
+			[
+				"format",
+				"formatedEdution"
+			],
+			[
+				"work",
+				"workexp"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"forma",
+				"formattedProject"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"formattedNam",
+				"formattedNameCombined"
+			],
+			[
+				"formattedNa",
+				"formattedNameCombined"
+			],
+			[
+				"formaa",
+				"formattedNameCombined"
+			],
+			[
+				"formatted",
+				"formattedName"
+			],
+			[
+				"form",
+				"formattedName"
+			],
+			[
+				"formatt",
+				"formattedSkillsStart"
+			],
+			[
+				"HTML",
+				"HTMLskillsStart"
+			],
+			[
+				"S",
+				"Student"
+			],
+			[
+				"Co",
+				"Co-op"
+			],
+			[
+				"Ene",
+				"Engineering"
+			],
+			[
+				"fun",
+				"funThoughts"
+			],
+			[
+				"awe",
+				"awesomeThoughts"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mi",
+				"margin-right"
+			],
+			[
+				"or",
+				"orange"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"ali",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "reddit/spiders/redditSpider.py",
+			"settings":
+			{
+				"buffer_size": 889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "items.json",
+			"settings":
+			{
+				"buffer_size": 14946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reddit/settings.py",
+			"settings":
+			{
+				"buffer_size": 3137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reddit/items.py",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reddit/pipelines.py",
+			"settings":
+			{
+				"buffer_size": 935,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jinwooklee/python Practice/example_pym.py",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jinwooklee/python Practice/scrapy/reddit/scrapy.cfg",
+		"/Users/jinwooklee/python Practice/bottle_pymongo_example.py",
+		"/Users/jinwooklee/Desktop/Portfolio/crawler/Webcrawler/Crawler.py",
+		"/Users/jinwooklee/python Practice/scrapy/tutorial/tutorial/spiders/dmoz_spider.py",
+		"/Users/jinwooklee/python Practice/scrapy/tutorial/items.json",
+		"/Users/jinwooklee/python Practice/scrapy/tutorial/items",
+		"/Users/jinwooklee/python Practice/scrapy/tutorial/terminal.glue",
+		"/Users/jinwooklee/Desktop/Portfolio/crawler/Webcrawler/input.txt",
+		"/Users/jinwooklee/Desktop/Portfolio/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/Users/jinwooklee/Desktop/Portfolio/frontend-nanodegree-resume/index.html",
+		"/Users/jinwooklee/Desktop/Portfolio/jQuery Sample Site/app.js",
+		"/Users/jinwooklee/Desktop/Portfolio/Project-Part-1-Start/index.html",
+		"/Users/jinwooklee/Desktop/Portfolio/Practice/game_old.js",
+		"/Users/jinwooklee/Desktop/Portfolio/Practice/practice.js",
+		"/Users/jinwooklee/Desktop/Portfolio/frontend-nanodegree-resume/job.txt",
+		"/Users/jinwooklee/Desktop/Portfolio/Start 3/index.html",
+		"/Users/jinwooklee/Desktop/Portfolio/Start 3/main.css",
+		"/Users/jinwooklee/Desktop/Portfolio/Grunt example/Gruntfile.js",
+		"/Users/jinwooklee/Desktop/Portfolio/Project-Part-1-Start/package.json",
+		"/Users/jinwooklee/Desktop/Portfolio/Grunt example/package.json",
+		"/Users/jinwooklee/Desktop/Portfolio/Start 2/index.html",
+		"/Users/jinwooklee/Desktop/Portfolio/mostly fluid/pattern-mostly-fluid-quiz-blankcss.html",
+		"/Users/jinwooklee/Desktop/Portfolio/toplist/style.css",
+		"/Users/jinwooklee/Desktop/Portfolio/toplist/index.html",
+		"/Users/jinwooklee/Desktop/Portfolio/bootstrap/bootstrap-prestructure.html",
+		"/Users/jinwooklee/Desktop/Portfolio/framework/test.html",
+		"/Users/jinwooklee/Desktop/Portfolio/framework/css/main.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SCRAPY",
+			"SCRAPY_SETTINGS",
+			"SCRAPY_SETTINGS_MODULE",
+			"connection",
+			"items",
+			"user",
+			"locations",
+			"locationFinder",
+			"map",
+			"mapprop",
+			"googleMap",
+			"$(\"#projects\").append(HTMLprojectStart);",
+			"inname",
+			"<li",
+			"skills",
+			"header",
+			"skill",
+			"flex-item",
+			"skill",
+			"header",
+			"skill",
+			"center",
+			"content",
+			"align",
+			"alig",
+			"aligh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "reddit/spiders/redditSpider.py",
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "items.json",
+					"settings":
+					{
+						"buffer_size": 14946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "reddit/settings.py",
+					"settings":
+					{
+						"buffer_size": 3137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2173,
+								2173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 435.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "reddit/items.py",
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "reddit/pipelines.py",
+					"settings":
+					{
+						"buffer_size": 935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								935,
+								935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/jinwooklee/python Practice/example_pym.py",
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.51952927796,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}
