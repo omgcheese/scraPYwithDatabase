@@ -61,8 +61,11 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
+
 ITEM_PIPELINES = {
    'reddit.pipelines.mongodbpipeline': 1,
+   'reddit.sortingpipelines.SortingPipelines': 2,
+
 }
 
 # MONGODB_URI= 'mongodb://localhost:27017/'
